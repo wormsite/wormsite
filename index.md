@@ -45,6 +45,8 @@
 		<iframe width="1560" height="315" src="https://drive.google.com/file/d/1niamC6s3mUU2pdLSkcnrKR7W4qcl_aBR/view?usp=sharing" frameborder="20"></iframe>
 		
 		<video controls class="pad" width="100%" height="100%" src="https://youtu.be/aq8EE2PAZlE"></video>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/aq8EE2PAZlE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 		<table>
 
